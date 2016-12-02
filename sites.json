@@ -1,1 +1,42 @@
-[]
+[
+	{
+		"PubKey": [
+			52,
+			89,
+			215,
+			23,
+			167,
+			178,
+			84,
+			240,
+			228,
+			1,
+			247,
+			30,
+			43,
+			217,
+			72,
+			102,
+			83,
+			52,
+			147,
+			10,
+			175,
+			228,
+			195,
+			188,
+			210,
+			76,
+			221,
+			41,
+			67,
+			111,
+			176,
+			39
+		],
+		"PassSealed": "7bYLOnOVRvjNio/qvHzN9Q1UKoU+zyySOdUb2UsYOjMEQOR74QtLyDMjnB74",
+		"Name": "test/tt.com",
+		"FileName": "",
+		"IsFile": false
+	}
+]
